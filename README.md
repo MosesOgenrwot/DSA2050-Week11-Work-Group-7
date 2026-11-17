@@ -3,7 +3,7 @@
 **Group:** Group 7 
 **Members and student IDs:**
 1. Moses Ogenrwot - 673380
-2. Susan Wnajiru Nduta - 
+2. Susan Wnajiru Nduta - 673011
 3. Rachel Momita - 
 4. Sylvia Kagwwka - 
 
