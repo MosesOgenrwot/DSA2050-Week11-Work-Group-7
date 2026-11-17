@@ -1,12 +1,6 @@
 # DSA 2050A — Week 9: Model selection and defensible evaluation
 
 **Group:** Group 7 
-**Members and student IDs:**
-1. Moses Ogenrwot - 673380
-2. Susan Wnajiru Nduta - 673011
-3. Rachel Momita - 
-4. Sylvia Kagwwka - 
-
 **Submission:** One shared GitHub repository link per group  
 **Course:** DSA 2050A Data Science Methodology  
 **Week:** 9
@@ -16,8 +10,10 @@ Complete the lab **in your existing groups**. Work together on one notebook and 
 
 | Group member | Student ID | Work completed | GitHub username or commit reference |
 |---|---|---|---|
-| [Name] | [ID] | [Example: evaluation pipeline] | [Username] |
-| [Name] | [ID] | [Example: error analysis and README] | [Username] |
+|  Moses Ogenrwot | 673380 | [Example: evaluation pipeline] | [Username] |
+|  Susan Wnajiru Nduta | 673011 | [Example: error analysis and README] | [Username] |
+| Rachel Momita |    |             |                              |         |
+| Sylvia Kagwwka |     |       |         |
 
 ## Study objective
 A fictional Kenyan internet provider wants to identify customers at risk of churn so it can offer retention deals before they leave. This lab compares two candidate models fairly, investigates where they fail, and records the model choice **before** the final test is read. Model selection must use development data only because the test set is our one unbiased estimate of performance on unseen customers. If test results influence any decision, the reported score becomes optimistic and no longer reflects real-world behaviour.
